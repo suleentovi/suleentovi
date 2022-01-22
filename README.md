@@ -1,16 +1,19 @@
-### Hi there 👋
+<!-- ## Hello World! 🌎 
 
-<!--
-**suleentovi/suleentovi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/mckolu/mckolu/blob/main/1.png"><img align="right" width="350" height="auto" src="https://github.com/mckolu/mckolu/blob/main/1.png"></a>
 
-Here are some ideas to get you started:
+I am a Research Scientist, who is passionate about creating **intelligent AI applications** for human learning. 👨🏻‍💻 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have a Ph.D. in Computer Science and I love working with multi-disciplinary teams to create innovative technologies for learners from all ages and backgrounds. 
+
+Some technologies I enjoy working with include **NodeJS, ReactJS, and of course Python!** :) 
+
+## Let's Connect! 🤝
+
+- My home: <a href="https://www.linkedin.com/in/mehmet-celepkolu/">LinkedIn</a> 🌐
+- My second home: <a href="https://mckolu.github.io/">Website</a>  🏠 
+- My Publications: <a href="https://scholar.google.com/citations?user=Lfj38jUAAAAJ&hl=en"> Google Scholar</a> ✍️
+
+
+
+<b> -->
