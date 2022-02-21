@@ -11,7 +11,7 @@ Some programming languages I enjoy working with include Tableau, PowerBi, SQL, a
 ## Let's Connect! 🤝
 
 - LinkedIn: <a href="https://www.linkedin.com/in/suleen-tovi/">LinkedIn</a>
-- My second home: <a href="https://mckolu.github.io/">Website</a>  🏠 
+- GitHub: <a href="https://github.com/suleentovi/">Website</a>
 
 
 
