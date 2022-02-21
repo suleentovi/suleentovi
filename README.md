@@ -13,7 +13,7 @@ Some programming languages I enjoy working with include Tableau, PowerBi, SQL, a
 - LinkedIn: <a href="https://www.linkedin.com/in/suleen-tovi/">LinkedIn</a>
 - GitHub: <a href="https://github.com/suleentovi/">Website</a>
 
-
+<b>
 
 
 
